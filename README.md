@@ -74,8 +74,15 @@ The AI Reliability Sprint is a focused engagement that helps teams:
 
 ## About Autonomy Stack
 
-Autonomy Stack builds AI reliability infrastructure for customer-facing agents.
+Autonomy Stack is the decision layer for AI systems.
 
-We help teams catch hallucinations, unsafe actions, policy violations, and off-brand responses before customers do.
+We build AI reliability infrastructure for customer-facing agents — helping teams catch, correct, block, or escalate risky outputs before customers see them.
 
-Learn more: https://autonomystack.dev
+Our first offer is the 7-Day AI Reliability Sprint: a fixed-scope engagement that helps teams find failure patterns, add validation, and ship with confidence.
+
+## Links
+
+- Website: https://autonomystack.dev
+- AI Reliability Sprint: https://autonomystack.dev/ai-reliability-sprint/
+- X: https://x.com/autonomystack
+- LinkedIn: https://www.linkedin.com/company/autonomy-stack/
